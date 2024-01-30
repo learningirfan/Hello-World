@@ -1,5 +1,5 @@
 # hello.py - Says "Hello-World" 
-# positivenegative.py - tells input number is positive or negative
+## positivenegative.py - tells input number is positive or negative
 # greaterthanzero.py - tells if input number is equal, less than, or greater than zero
 # evennumber.py - tells if input number is even or odd
 # biggernbumber.py -  tells which number is bigger in two inputs
