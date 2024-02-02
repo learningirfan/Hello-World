@@ -6,7 +6,7 @@
 ## circle.py - tells circumference of a cirlce with radius input
 ## divis.py - tells if N is divisble by M or not
 ## timetosec.py - tells number of seconds for days, hours, minutes input
-## timetoday.py - tells number of seconds for days, hours, minutes input
+## timetodays.py - tells number of days, hours, minutes and/or seconds from input, # of seconds
 
 
 ## Pushed, Pulled, with Git
