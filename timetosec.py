@@ -1,4 +1,4 @@
-# timetosec.py - tells number of seconds for days, hours, minutes input
+# timetodays.py - tells number of days, hours, minutes and/or seconds from input, # of seconds
 
 days = float(input("Enter # of days:"))
 hours = float(input("Enter # of hours:"))
